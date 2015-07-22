@@ -1,0 +1,9 @@
+<?zml version="1.0" ?>
+<Class type_id="2" name="container_t">
+	<MemberList>
+		<MemberData member_id="1" name="data" type="array(integer)" />
+		<MemberFunction member_id="2" name="get" type="integer">
+			<Parameter name="index" type="integer" />
+		</MemberFunction>
+	</MemberList>
+</Class>
