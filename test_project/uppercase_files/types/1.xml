@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<Class type_id="1" name="app_t">
+	<MemberList>
+		<MemberData member_id="1" name="app_t_field_1" type="integer" />
+		<MemberData member_id="2" name="app_t_field_2" type="string" />
+		<MemberData member_id="3" name="app_t_field_3" type="pointer(app_t)" />
+		<MemberData member_id="4" name="app_t_field_4" type="container_t" />
+		<MemberFunction member_id="5" name="app_t_function_1" type="void" />
+		<MemberFunction member_id="6" name="app_t_function_2" type="int">
+			<Parameter name="left" type="int" />
+			<Parameter name="right" type="int" />
+		</MemberFunction>
+	</MemberList>
+	<SeeAlsoList>
+		<SeeAlso label="container_t" name="types/2.xml" />
+		<SeeAlso label="pow" name="functions/1.xml" />
+	</SeeAlsoList>
+</Class>
