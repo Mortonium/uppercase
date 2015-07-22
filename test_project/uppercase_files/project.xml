@@ -1,4 +1,10 @@
 <?xml version="1.0" ?>
 <Project name="Test Project" start_date="2015-07-20">
-	
+	<FunctionRefList>
+		<FunctionRef name="pow" file="1.xml" />
+	</FunctionRefList>
+	<ClassRefList>
+		<ClassRef name="app_t" file="1.xml" />
+		<ClassRef name="container_t" file="2.xml" />
+	</ClassRefList>
 </Project>
