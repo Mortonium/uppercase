@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<Function function_id="1" name="pow" type="integer">
+	<Parameter name="x" type="integer" />
+	<Parameter name="n" type="integer" />
+	<Description>
+		Returns x raised to the power n
+	</Description>
+</Function>

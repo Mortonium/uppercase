@@ -12,6 +12,7 @@
 		</MemberFunction>
 	</MemberList>
 	<SeeAlsoList>
-		<SeeAlso label="container_t" name="container_t.xml" />
+		<SeeAlso label="container_t" name="types/container_t.xml" />
+		<SeeAlso label="pow" name="functions/pow.xml" />
 	</SeeAlsoList>
 </Class>
